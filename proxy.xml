@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<proxy>
+  <name>proxyvipfmcc.nb.ford.com</name>
+  <port>83</port>
+  <secretPassword>{AQAAABAAAAAQ7oeOJc6aRBd6Jrkp3wplqIpUHdoNBxRmjvLOnVmRkrA=}</secretPassword>
+</proxy>

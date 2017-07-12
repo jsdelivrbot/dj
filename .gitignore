@@ -1,0 +1,15 @@
+*
+!/.gitignore
+!/*.xml
+!/nextBuildNumber
+
+!/jobs
+!/jobs/*
+!/jobs/*/*.xml
+/jobs/*/disk-usage.xml
+/jobs/*/builds
+
+!/users
+!/users/**/
+!/users/**/*.xml
+
