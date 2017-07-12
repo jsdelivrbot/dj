@@ -9,6 +9,8 @@
 /jobs/*/disk-usage.xml
 /jobs/*/builds
 
+!*.sh
+
 !/users
 !/users/**/
 !/users/**/*.xml
