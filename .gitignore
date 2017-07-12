@@ -10,6 +10,7 @@
 /jobs/*/builds
 
 !*.sh
+!*.css
 
 !/users
 !/users/**/
