@@ -16,3 +16,6 @@
 !/users/**/
 !/users/**/*.xml
 
+!/plugins
+!/plugins/*
+
