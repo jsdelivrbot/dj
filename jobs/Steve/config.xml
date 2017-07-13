@@ -50,7 +50,8 @@
   <concurrentBuild>false</concurrentBuild>
   <builders>
     <hudson.tasks.Shell>
-      <command>scripts/install.sh</command>
+      <command>PATH=&quot;/usr/local/bin:${PATH}&quot;
+scripts/install.sh</command>
     </hudson.tasks.Shell>
     <hudson.tasks.Shell>
       <command>fastlane run_tests_10</command>
